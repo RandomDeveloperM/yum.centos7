@@ -1,0 +1,6 @@
+- Change all gpgkey=file* to appropriate gpgkey=http* link
+- ensure gpgcheck=1 in all yum config files
+- upload code to github
+- upload image to dockerhub
+- setup automated build on dockerhub
+- Populate repo from ISO image

@@ -1,0 +1,7 @@
+[rpmfusion-nonfree-updates]
+name=RPM Fusion for EL 7 - Nonfree - Updates
+#baseurl=http://download1.rpmfusion.org/nonfree/el/updates/7/$basearch/
+mirrorlist=http://mirrors.rpmfusion.org/mirrorlist?repo=nonfree-el-updates-released-7&arch=$basearch
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-nonfree-el-7

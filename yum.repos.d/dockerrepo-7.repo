@@ -1,0 +1,4 @@
+[dockerrepo-7]
+name=Docker Repository
+gpgcheck=0
+baseurl=https://yum.dockerproject.org/repo/main/centos/$releasever/

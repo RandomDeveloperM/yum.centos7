@@ -1,0 +1,4 @@
+[nginx-7]
+name=nginx repo
+gpgcheck=0
+baseurl=http://nginx.org/packages/centos/$releasever/$basearch/
