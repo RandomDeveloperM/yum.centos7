@@ -6,6 +6,8 @@ Docker file, Yum repository for CentOS 7.
 
 ### Build
 
+*** This file is outdated and needs updating ***
+
 - Build
 
 ~~~bash
